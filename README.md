@@ -1,0 +1,2 @@
+# gitam
+Projects for students
